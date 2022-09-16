@@ -1,0 +1,23 @@
+{
+  "name": "chess-test-suite",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "exports": {
+    "./perft/initial": "./perft/initial-position.js",
+    "./perft/kiwipete": "./perft/kiwipete.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gooz92/chess-test-suite.git"
+  },
+  "author": "Gooz92",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gooz92/chess-test-suite/issues"
+  },
+  "homepage": "https://github.com/Gooz92/chess-test-suite#readme"
+}
